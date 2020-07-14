@@ -1,4 +1,7 @@
 hello git hello atguigu
+<<<<<<< HEAD
 fdasdsfsa
 dsfas
 sdaf
+=======
+>>>>>>> hotfix
